@@ -23,11 +23,12 @@
 ---
 
 ### 教育经历
--2018.9至今
-     华中科技大学   人工智能与自动化学院    研究生在读</b></p>
+-2018.9 ~ 至今
+    华中科技大学&nbsp;&nbsp;&nbsp;&nbsp;人工智能与自动化学院&nbsp;&nbsp;&nbsp;&nbsp;研究生在读</b></p>
 
 -2014.9 ~ 2018.6
-    华中科技大学   自动化学院             工学学士学位  -  本科(学士)毕业</b></p>  
+    华中科技大学&nbsp;&nbsp;&nbsp;&nbsp;自动化学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工学学士学位  -  本科(学士)毕业</b></p>
+
 
 ### 研究方向
 - 迁移学习
