@@ -15,7 +15,7 @@
   </tr>
 </table>
 </div>
-
+---
 ### 教育经历
 -2018.9 ~ 至今  
     华中科技大学&nbsp;&nbsp;&nbsp;&nbsp;人工智能与自动化学院&nbsp;&nbsp;&nbsp;&nbsp;研究生在读  
