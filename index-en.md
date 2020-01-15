@@ -2,11 +2,11 @@
 <table border="0">
   <tr>
     <td>
-      <h1>Zhang San</h1>
+      <h1>Zhang Weiran</h1>
       <p><b>Master</b></p>
-      <p><b>College of ××, ×× University</b></p>
-      <p><b>E-mail：1234567789@qq.com</b></p>
-      <p><b>Address：Rm××, ×× Building, ×× University, ×× Road, Nanjing</b></p>
+      <p><b>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology</b></p>
+      <p><b>E-mail：weiran0720@foxmail.com / M201872641@hust.edu.cn</b></p>
+      <p><b>Address：West 15th dormitory, Huazhong University of Science and Technology, Luoyu Road 1037, Wuhan</b></p>
       <a href="/index.html">中文版</a>
     </td>
     <td width="25%">
