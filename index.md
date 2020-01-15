@@ -5,7 +5,7 @@
       <h1>张未然</h1>
       <p><b>硕士研究生</b></p>
       <p><b>华中科技大学人工智能与自动化学院</b></p>
-      <p><b>邮箱：weiran0720@foxmail.com</b></p>
+      <p><b>邮箱：weiran0720@foxmail.com / M201872641@hust.edu.cn</b></p>
       <p><b>地址：武汉市洪山区珞喻路1037号华中科技大学大学，西十五舍，邮编430074</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
